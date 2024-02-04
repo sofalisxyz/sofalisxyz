@@ -4,4 +4,4 @@
 - 📫 You can contact me on telegram: @h11d3nname and email: h11d3nname at gmail dot com
 
 
-![Codewars](https://www.codewars.com/users/h11d3nname/badges/large?theme=dark)
+![Codewars](https://www.codewars.com/users/h11d3nname/badges/small?theme=dark)
