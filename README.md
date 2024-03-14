@@ -1,6 +1,7 @@
 ### Hi there
 - 👋 I'm Sophia, 21 y.0. software engineer
-- 👀 I'm interested in frontend and backend development using JS, TypeScript, React, Next, Node.js and Python
+- 👀 I'm interested in frontend and backend development using JS, TS and Python
+- 💻 Currently I'm working at DataGo as software engineer, 4.5+ years of working experience in total
 - 📫 You can contact me on telegram: @sofalisxyz
 
 
